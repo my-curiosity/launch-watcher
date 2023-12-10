@@ -1,4 +1,4 @@
-#Privacy Policy
+# Privacy Policy
 
 LW does not collect or store the visitor's personal information, but provides links to
 
