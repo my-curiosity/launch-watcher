@@ -27,9 +27,11 @@ LW is built using [Next.js](https://github.com/vercel/next.js/).
 limited to 15 requests/hr without a key.
 
 The application is set up to use `lldev` by default.
+
 To reduce the number of API calls, a limit of 1 request/load (= max 100 items) is used.
 
 # License
 
 Copyright (c) 2023-present, curiosity
+
 The application is licensed under GNU AGPLv3, see `LICENSE` for details.
